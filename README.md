@@ -23,10 +23,10 @@ The code is based on Python 3.12+ and requires CUDA version 11.0 or higher. Foll
 
 ```
 sbatch sub.sh
-'''
+```
 for DPSAT
 
-'''
+```
 sbatch train_cifar.sh
-'''
+```
 for DiceSGD and DPSGD.
